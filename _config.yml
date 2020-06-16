@@ -1,9 +1,9 @@
 # Site settings
-title: Panos Personal Page
+title: Panos Petsagkourakis Personal Page
 email: ppetsag@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "PP" # the base hostname & protocol for your site
+baseurl: "/personal/" # the subpath of your site, e.g. /blog/
+url: "ppetsag" # the base hostname & protocol for your site
 
 twitter_username: 
 github_username:
