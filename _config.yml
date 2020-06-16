@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: /pe/#"/personal/" # the subpath of your site, e.g. /blog/
 url: "ppetsag" # the base hostname & protocol for your site
 
-twitter_username: 
-github_username:
+twitter_username: https://twitter.com/Pnosapp
+github_username: panos108
 
 # Build settings
 markdown: kramdown
